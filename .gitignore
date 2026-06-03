@@ -1,0 +1,16 @@
+# Ignore temporary files and editor artifacts
+*.log
+*.tmp
+*.swp
+.DS_Store
+Thumbs.db
+
+# Node / Python / shell environment files
+node_modules/
+venv/
+__pycache__/
+
+# Lab runner and temp state
+*.pid
+*.sock
+tmp/
