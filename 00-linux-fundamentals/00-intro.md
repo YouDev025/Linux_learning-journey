@@ -36,15 +36,15 @@ Free, open-source kernel by **Linus Torvalds** (1991). Runs ~96% of web servers,
 ---
 
 ## Terminal basics
-
-Understanding the Prompt
-
+---
+```
 user@hostname:~$
 │    │         │└── $ = regular user, # = root
 │    │         └─── ~ = current directory (home)
 │    └─────────────── hostname (machine name)
 └──────────────────── logged-in username
-
+```
+---
 ### Navigate
 
 ```bash
