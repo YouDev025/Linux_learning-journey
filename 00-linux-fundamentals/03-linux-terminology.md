@@ -1,15 +1,6 @@
 # Linux Terminology
 
-## 🎯 Learning Objectives
-
-By the end of this lesson, you should be able to:
-
-- Understand common Linux terminology
-- Differentiate between CLI and GUI
-- Explain the concepts of shell, terminal, and session
-- Understand processes, threads, jobs, and daemons
-- Recognize common Linux file types and naming conventions
-
+ 
 ---
 
 # CLI vs GUI
