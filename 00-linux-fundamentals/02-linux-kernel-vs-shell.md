@@ -1,15 +1,5 @@
 # Kernel vs Shell
 
-## 🎯 Learning Objectives
-
-By the end of this lesson, you should be able to:
-
-- Understand what the Linux kernel is
-- Understand what a shell is and its role
-- Explain the difference between kernel space and user space
-- Identify common Linux shells
-- Describe how commands are processed in Linux
-
 ---
 
 # What is the Linux Kernel?
